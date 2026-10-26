@@ -1,0 +1,1 @@
+import{u as e}from"./index-BcRmIxTp.js";var t=e();function n({label:e=`Advertisement`}){return(0,t.jsx)(`aside`,{className:`ad-slot`,"aria-label":e,children:(0,t.jsx)(`span`,{children:e})})}export{n as t};
